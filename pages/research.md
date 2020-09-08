@@ -16,7 +16,7 @@ Many image editing techniques make processing decisions based on measures of sim
     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month = {June},
     year = {2020}
-}</pr</pre>e>
+}</pre>
 [Project page](https://facultyweb.cs.wwu.edu/~wehrwes/semantic_pixels/)
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/semdist.pdf)
 
@@ -25,7 +25,7 @@ Many image editing techniques make processing decisions based on measures of sim
 Rational drug design aims to develop pharmaceutical agents that impart maximal therapeutic benefits via their interaction with their intended biological targets. In the past several decades, advances in computational tools that inform wet-lab techniques have aided the development of a wide variety of new medicines with high efficacies. Nonetheless, drug development remains a time and cost intensive process. In this work, we have developed a computational pipeline for assessing how individual atoms contribute to a ligand’s effect on the structural stability of a biological target. Our approach takes as input a protein-ligand resolved PDB structure file and systematically generates all possible ligand variants. We assess how the atomic-level edits to the ligand alter the drug’s effect via a graph theoretic rigidity analysis approach. We demonstrate, via four case studies of common drugs, the utility of our pipeline and corroborate our analyses with known biophysical properties of the medicines, as reported in the literature.
 
 ##### Citation  
-<pre><pre>
+<pre>
 @article{Herr_2020,
 title={PETRA: Drug Engineering via Rigidity Analysis},
 volume={25},
@@ -39,5 +39,5 @@ author={Herr, Sam and **Myers-Dean, Josh** and Read, Hunter and Jagodzinski, Fil
 year={2020},
 month={Mar},
 pages={1304}}
-</pr</pre>e>
+</pre>
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/petra.pdf)
