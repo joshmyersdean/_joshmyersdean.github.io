@@ -19,7 +19,7 @@ Josh Myers-Dean is an undergraduate computer vision researcher at Western Washin
     <div class="row-fluid">
         <div class="span5">
             Josh Myers-Dean<br/>
-            Email: myersdj@wwu.edu<br/>
+            Email: myersdj [at] wwu [dot] edu<br/>
         </div>
 
         <div class="span2">
