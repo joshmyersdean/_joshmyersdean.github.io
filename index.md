@@ -7,7 +7,7 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 
 Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University. His research interests include computational photography, structure from motion, high dimensional parameter reduction, and computational geometry/topology.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
@@ -33,7 +33,7 @@ Josh Myers-Dean is an undergraduate computer vision researcher at Western Washin
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/joshmyersdean">GitHub</a></li>
           <li><a href="https://twitter.com/joshmyersdean1">Twitter (@joshmyersdean1)</a></li>
       </ul>
