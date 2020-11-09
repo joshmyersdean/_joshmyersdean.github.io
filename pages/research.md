@@ -41,3 +41,5 @@ month={Mar},
 pages={1304}}
 </pre>
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/petra.pdf)
+#### <u><Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study/u>
+##### Accepted SIGCSE 2021
