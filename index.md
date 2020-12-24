@@ -2,10 +2,10 @@
 layout: frontpage
 title: Josh Myers-Dean
 description: Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: computer vision, NLP, computer science
 ---
 
-Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University. His research interests include computational photography, structure from motion, high dimensional parameter reduction, and computational geometry/topology.
+Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University and an NSIP intern at the Pacific Northwest National Laboratory. His current research is centered around using features from the internals of deep neural networks to improve upon image editing tasks, as well as using overhead imagery to identify the legibility of international borders (WWU). His research at PNNL is in Natural Language Processing with a focus in Named Entity Recognition and unsupervised clustering. 
 
 [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
