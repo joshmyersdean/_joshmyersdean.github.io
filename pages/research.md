@@ -17,7 +17,8 @@ Many image editing techniques make processing decisions based on measures of sim
     month = {June},
     year = {2020}
 }</pre>
-[Project page(https://facultyweb.cs.wwu.edu/~wehrwes/semantic_pixels/)  
+[Project page](https://facultyweb.cs.wwu.edu/~wehrwes/semantic_pixels/)
+
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/semdist.pdf)
 
 
