@@ -37,7 +37,7 @@ Outside of research I enjoy being in the mountains (skiing, trail running, suffe
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/joshmyersdean">GitHub</a></li>
-          <li><a href="https://scholar.google.com/citations?user=yR_7MCoAAAAJ&hl=en>Google Scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=yR_7MCoAAAAJ&hl=en">Google Scholar</a></li>
       </ul>
   </div>
 </div>
