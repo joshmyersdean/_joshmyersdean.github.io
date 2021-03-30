@@ -5,7 +5,7 @@ description: Josh Myers-Dean is an undergraduate computer vision researcher at W
 keywords: computer vision, NLP, computer science
 ---
 
-Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University and an NSIP intern at the Pacific Northwest National Laboratory. His current research is centered around using features from the internals of deep neural networks to improve upon image editing tasks, as well as using overhead imagery to identify the legibility of international borders (WWU, advised by [Dr. Scott Wehrwein](https: // facultyweb.cs.wwu.edu/~wehrwes/)). Additionally, his research at WWU involves rational drug discovery, as well as PDZ domain disambiguation (advised by [Dr. Filip Jagodzinski](https://facultyeb.cs.wwu.edu/~jagodzf/)) with a bit of computing education research (with [Dr. Qiang Hao](http://qhao.info/)). His research at PNNL is in Natural Language Processing with a focus in Named Entity Recognition and unsupervised clustering (advised by [Dr. Karl Pazdernik](https://www.linkedin.com/in/karl-pazdernik-1283b392/)). Additional research interests are broad but `np.random.choice(research_interests, 5) = ['PBR', 'SfM/NVS', 'High Dimensional Data Optimization', 'Computational Topology & Geometry', 'Computational Biology']`````.````
+Josh Myers-Dean is an undergraduate computer vision researcher at Western Washington University and an NSIP intern at the Pacific Northwest National Laboratory. His current research is centered around using features from the internals of deep neural networks to improve upon image editing tasks, as well as using overhead imagery to identify the legibility of international borders (WWU, advised by [Dr. Scott Wehrwein](https: // facultyweb.cs.wwu.edu/~wehrwes/)). Additionally, his research at WWU involves rational drug discovery, as well as PDZ domain disambiguation (advised by [Dr. Filip Jagodzinski](https://facultyeb.cs.wwu.edu/~jagodzf/)) with a bit of computing education research (with [Dr. Qiang Hao](http://qhao.info/)). His research at PNNL is in Natural Language Processing with a focus in Named Entity Recognition and unsupervised clustering (advised by [Dr. Karl Pazdernik](https://www.linkedin.com/in/karl-pazdernik-1283b392/)). This Fall I will be joining the University of Washington as a Ph.D. student in Electrical and Computer Engineering where I will work under [Dr. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/). 
 
 Outside of research I enjoy being in the mountains (skiing, trail running, sufferfesting, biking, etc.), cooking, knitting, and making bread.
 
@@ -37,7 +37,7 @@ Outside of research I enjoy being in the mountains (skiing, trail running, suffe
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/joshmyersdean">GitHub</a></li>
-          <li><a href="https://twitter.com/joshmyersdean1">Twitter (@joshmyersdean1)</a></li>
+          <li><a href="https://scholar.google.com/citations?user=yR_7MCoAAAAJ&hl=en>Google Scholar</a></li>
       </ul>
   </div>
 </div>
