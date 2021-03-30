@@ -43,4 +43,23 @@ pages={1304}}
 </pre>
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/petra.pdf)
 #### <u>Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study</u>
-##### Accepted SIGCSE 2021
+##### Citation
+<pre>
+@inproceedings{10.1145/3408877.3432361,
+author = {Smith, David H. and Hao, Qiang and Hundhausen, Christopher D. and Jagodzinski, Filip and Myers-Dean, Josh and Jaeger, Kira},
+title = {Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study},
+year = {2021},
+isbn = {9781450380621},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3408877.3432361},
+doi = {10.1145/3408877.3432361},
+abstract = {Interactive textbooks have great potential to increase student engagement with the course content which is critical to effective learning in computing education. Prior research on digital textbooks and interactive visualizations contributes to our understanding of student interactions with visualizations and modeling textbook knowledge concepts. However, research investigating student usage of interactive computing textbooks is still lacking. This study seeks to fill this gap by modeling student engagement with a Jupyter-notebook-based interactive textbook. Our findings suggest that students' active interactions with the presented interactive textbook, including changing, adding, and executing code in addition to manipulating visualizations, are significantly stronger in predicting student performance than conventional reading metrics. Our findings contribute to a deeper understanding of student interactions with interactive textbooks and provide guidance on the effective usage of said textbooks in computing education.},
+booktitle = {Proceedings of the 52nd ACM Technical Symposium on Computer Science Education},
+pages = {914–920},
+numpages = {7},
+keywords = {learning analytics, jupyter notebook, interactive textbook, interaction behavior modeling, visualization},
+location = {Virtual Event, USA},
+series = {SIGCSE '21}
+}
+</pre>
